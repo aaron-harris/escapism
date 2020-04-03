@@ -3,3 +3,7 @@
 
 !config/
 !mods/
+
+# And ignore some instance-specific configs
+config/splash.properties
+config/jei/worldSettings.cfg
